@@ -1,3 +1,4 @@
 # Lab-Assist-Tools-Collection
-Aimed to upload tools that will automate day to day tasks in microbiology/ lifescience/ wet science based labs
+Benchtop Toolkit
+A collection of single-file, offline HTML tools for everyday molecular biology work — no install, no server, no internet required. Each tool runs directly in the browser and is built for quick use
 
